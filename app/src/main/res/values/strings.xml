@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tokoku</string>
+    <string name="nama_hint">Nama Barang</string>
+    <string name="harga_hint">Harga</string>
+    <string name="data_barang">Data Barang</string>
+    <string name="halaman_utama">Halaman Utama</string>
+    <string name="profil">Profil</string>
+    <string name="nama_saya">Moch. Irfan Rafif</string>
+    <string name="email_saya">mirfanrafif17@gmail.com</string>
+</resources>
